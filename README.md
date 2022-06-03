@@ -1,5 +1,5 @@
 # Bootstrap Isolated
-Isolated pre-compiled Bootstrap 4.3.1
+Isolated pre-compiled Bootstrap
 
 ### Installing
 
@@ -18,6 +18,10 @@ Outside HTML no Bootstrap affected
 </div>
 Outside HTML no Bootstrap affected
 ```
+
+### Updates
+
+03-05-22 updated to 4.6.1
 
 
 ## Buy me a coffe
